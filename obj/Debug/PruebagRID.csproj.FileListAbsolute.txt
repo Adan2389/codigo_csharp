@@ -1,0 +1,9 @@
+C:\Users\loopth23\Desktop\PruebagRID\bin\Debug\PruebagRID.exe.config
+C:\Users\loopth23\Desktop\PruebagRID\bin\Debug\PruebagRID.exe
+C:\Users\loopth23\Desktop\PruebagRID\bin\Debug\PruebagRID.pdb
+C:\Users\loopth23\Desktop\PruebagRID\obj\Debug\PruebagRID.csprojAssemblyReference.cache
+C:\Users\loopth23\Desktop\PruebagRID\obj\Debug\PruebagRID.Form1.resources
+C:\Users\loopth23\Desktop\PruebagRID\obj\Debug\PruebagRID.Properties.Resources.resources
+C:\Users\loopth23\Desktop\PruebagRID\obj\Debug\PruebagRID.csproj.GenerateResource.cache
+C:\Users\loopth23\Desktop\PruebagRID\obj\Debug\PruebagRID.exe
+C:\Users\loopth23\Desktop\PruebagRID\obj\Debug\PruebagRID.pdb
