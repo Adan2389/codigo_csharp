@@ -1,0 +1,18 @@
+C:\Users\loopth23\Desktop\Grid_Dinamico\obj\Debug\Grid_Dinamico.csprojAssemblyReference.cache
+C:\Users\loopth23\Desktop\Grid_Dinamico\obj\Debug\Grid_Dinamico.Form1.resources
+C:\Users\loopth23\Desktop\Grid_Dinamico\obj\Debug\Grid_Dinamico.Properties.Resources.resources
+C:\Users\loopth23\Desktop\Grid_Dinamico\obj\Debug\Grid_Dinamico.csproj.GenerateResource.cache
+C:\Users\loopth23\Desktop\Grid_Dinamico\bin\Debug\Grid_Dinamico.exe.config
+C:\Users\loopth23\Desktop\Grid_Dinamico\bin\Debug\Grid_Dinamico.exe
+C:\Users\loopth23\Desktop\Grid_Dinamico\bin\Debug\Grid_Dinamico.pdb
+C:\Users\loopth23\Desktop\Grid_Dinamico\obj\Debug\Grid_Dinamico.exe
+C:\Users\loopth23\Desktop\Grid_Dinamico\obj\Debug\Grid_Dinamico.pdb
+C:\Users\loopth23\Info  Adan\Desarrollo\Grid_Dinamico\bin\Debug\Grid_Dinamico.exe.config
+C:\Users\loopth23\Info  Adan\Desarrollo\Grid_Dinamico\bin\Debug\Grid_Dinamico.exe
+C:\Users\loopth23\Info  Adan\Desarrollo\Grid_Dinamico\bin\Debug\Grid_Dinamico.pdb
+C:\Users\loopth23\Info  Adan\Desarrollo\Grid_Dinamico\obj\Debug\Grid_Dinamico.csprojAssemblyReference.cache
+C:\Users\loopth23\Info  Adan\Desarrollo\Grid_Dinamico\obj\Debug\Grid_Dinamico.Form1.resources
+C:\Users\loopth23\Info  Adan\Desarrollo\Grid_Dinamico\obj\Debug\Grid_Dinamico.Properties.Resources.resources
+C:\Users\loopth23\Info  Adan\Desarrollo\Grid_Dinamico\obj\Debug\Grid_Dinamico.csproj.GenerateResource.cache
+C:\Users\loopth23\Info  Adan\Desarrollo\Grid_Dinamico\obj\Debug\Grid_Dinamico.exe
+C:\Users\loopth23\Info  Adan\Desarrollo\Grid_Dinamico\obj\Debug\Grid_Dinamico.pdb
